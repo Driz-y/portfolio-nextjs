@@ -3,7 +3,7 @@
 
 import React from 'react'
 
-const Page = () => {
+const About = () => {
   return (
     <div
       style={{ backgroundImage: "url(/mountains.jpg)" }}
@@ -24,4 +24,4 @@ const Page = () => {
   )
 }
 
-export default Page
+export default About
