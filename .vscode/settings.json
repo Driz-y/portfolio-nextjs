@@ -1,0 +1,4 @@
+{
+    "rainbowTags.allowEverywhere": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
